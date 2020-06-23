@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const API_KEY='1597fa2d0ab1ca092672e128b03e7dd9';
+  const API_SECRET='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';
   return (
     <div className="App">
       <header className="App-header">
